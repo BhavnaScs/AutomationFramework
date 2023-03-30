@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="3" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="81" started-at="2023-03-22T11:03:17 IST" finished-at="2023-03-22T11:03:17 IST">
+    <groups>
+      <group name="RegressionSuite">
+        <method signature="CreateNewContactsWiTHOrganizationTest.demo()[pri:0, instance:vtiger.ContactsTests.CreateNewContactsWiTHOrganizationTest@289d1c02]" name="demo" class="vtiger.ContactsTests.CreateNewContactsWiTHOrganizationTest"/>
+        <method signature="CreateNewContactsWiTHOrganizationTest.demo1()[pri:0, instance:vtiger.ContactsTests.CreateNewContactsWiTHOrganizationTest@289d1c02]" name="demo1" class="vtiger.ContactsTests.CreateNewContactsWiTHOrganizationTest"/>
+      </group> <!-- RegressionSuite -->
+    </groups>
+    <test name="Test" duration-ms="81" started-at="2023-03-22T11:03:17 IST" finished-at="2023-03-22T11:03:17 IST">
+      <class name="vtiger.ContactsTests.CreateNewContactsWiTHOrganizationTest">
+        <test-method status="PASS" signature="demo()[pri:0, instance:vtiger.ContactsTests.CreateNewContactsWiTHOrganizationTest@289d1c02]" name="demo" duration-ms="12" started-at="2023-03-22T11:03:17 IST" finished-at="2023-03-22T11:03:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method status="PASS" signature="demo1()[pri:0, instance:vtiger.ContactsTests.CreateNewContactsWiTHOrganizationTest@289d1c02]" name="demo1" duration-ms="1" started-at="2023-03-22T11:03:17 IST" finished-at="2023-03-22T11:03:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo1 -->
+      </class> <!-- vtiger.ContactsTests.CreateNewContactsWiTHOrganizationTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

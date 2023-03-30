@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="vtiget.OrganizationsTests.CreateOraganizationTest">
+        <methods>
+          <include name="bcConfig"/>
+          <include name="acConfig"/>
+          <include name="bsConfig"/>
+          <include name="asConfig"/>
+          <include name="demoScript"/>
+          <include name="amConfig"/>
+          <include name="regional"/>
+          <include name="bmConfig"/>
+        </methods>
+      </class> <!-- vtiget.OrganizationsTests.CreateOraganizationTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
